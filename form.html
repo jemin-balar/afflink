@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://use.typekit.net/bts1uux.css">
+    <link rel="icon" type="image/x-icon" href="resources/logo.svg">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <div onclick="history.back()" style="height: 100vh; width: 100vw;">
+        <div class="signup-form  p-4" onclick="event.stopPropagation()">
+            <div class="fluid-container">
+                <div class="row">
+                    <div class="backbutton gilroylight">
+                        <a class="buttonlink gilroylight  fz-22 outfit mb-0" style="color: #00c2e5;" href="index.html">
+                            <i class="bi bi-chevron-left pe-3"></i>
+                            Please enter your details
+                        </a>
+                    </div>
+                </div>
+                <form action="mailto:sales@afflink.mobi" method="post" enctype="text/plain">
+                    <div class="form-row p-4">
+                        <div class="row justify-content-between align-items-center">
+                            <div class="col-md-12">
+                                <label for="nameInput" class="sofiabold fz-20 mt-0" style="color: #4D4E4E;">Full
+                                    Name*</label>
+                                <input type="text" name="Full Name" class="form-control fz-20 sofiaregular o-50"
+                                    id="nameInput" placeholder="Full Name" style="color: #4D4E4E;" required>
+                                <div class="invalid-feedback">
+                                    Please provide your full Name
+                                </div>
+                                <label for="exampleInputEmail1" class="sofiabold fz-20 mt-4"
+                                    style="color: #4D4E4E;">Email
+                                    address*</label>
+                                <input type="email" name="Email Address" class="form-control fz-20 sofiaregular o-50"
+                                    id="exampleInputEmail1" placeholder="Enter Your Email" required>
+                                <div class="form-group phone">
+                                    <label for="phoneInput" class="sofiabold fz-20 mt-4" style="color: #4D4E4E;">Phone
+                                        Number*</label>
+                                    <input type="text" name="Phone Number" class="form-control fz-20 sofiaregular o-50"
+                                        id="phoneInput" placeholder="Phone" style="color: #4D4E4E;" required>
+                                    <div class="invalid-feedback">
+                                        Please provide a phone number.
+                                    </div>
+                                </div>
+                                <div class="form-group  company">
+                                    <label for="companyInput" class="sofiabold fz-20 mt-4"
+                                        style="color: #4D4E4E;">Subject
+                                    </label>
+                                    <input type="text" name="Subject" class="form-control fz-20 sofiaregular o-50"
+                                        id="companyInput" placeholder="Subject" style="color: #4D4E4E;">
+                                </div>
+                                <div class="form-group  company">
+                                    <label for="companyInput" class="sofiabold fz-20 mt-4"
+                                        style="color: #4D4E4E;">Message
+                                    </label>
+                                    <textarea class="form-control fz-20 o-50" name="user Message"
+                                        id="exampleFormControlTextarea1" rows="3"
+                                        style="text-align: start; border-right: none; border-left: none; border-top: none; color: #4D4E4E;"
+                                        placeholder="Type Your Message Here"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="buttons mt-2">
+                        <div class="row m-0 p-0">
+                            <div class="justify-content-center d-flex">
+                                <button type="submit" class="fz-22 gilroy border-0" id="login">Submit </button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+
+<style>
+    .signup-form {
+        /* width: 70%; */
+        height: auto;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: #fff;
+        border-radius: 2rem;
+    }
+
+    /* .signup-form .col-lg-6 {
+        width: 45%;
+    } */
+
+    body {
+        background-color: black;
+    }
+
+    .signup-form .ta-r {
+        text-align: right;
+    }
+
+    .signup-form .backbutton {
+        display: inline-flex;
+        align-items: center;
+        color: #08B3E5;
+    }
+
+    .signup-form .bi-chevron-left::before {
+        font-weight: bolder !important;
+        font-size: 1.8rem;
+    }
+
+    .signup-form .form-row input {
+        border: none;
+        border-bottom: .1rem solid #4d4e4e7e;
+        position: relative;
+    }
+
+    .signup-form .password {
+        position: relative;
+    }
+
+    .signup-form .bi-eye-slash {
+        position: absolute;
+        top: 50%;
+        right: 0;
+        transform: translateY(-50%);
+        display: block;
+        font-size: 1.8rem;
+        color: black;
+        opacity: .5;
+    }
+
+    .signup-form #createaccount {
+        padding: 2rem;
+        background: white;
+        box-shadow: .1rem .1rem .8rem rgba(0, 0, 0, 0.407);
+        border-radius: 1rem;
+        color: rgba(0, 0, 0, 0.603);
+    }
+
+    .signup-form #login {
+        padding: 2rem 6rem;
+        background-image: linear-gradient(to right, #08b3e5, #00c2e5, #00cfda, #00dac6, #22e4ac);
+        ;
+        box-shadow: .1rem .1rem .8rem rgba(0, 0, 0, 0.407);
+        border-radius: 1rem;
+        color: rgba(255, 255, 255, 0.603);
+        float: right;
+    }
+
+    .contact-form {
+        display: flex;
+    }
+</style>
+
+</html>

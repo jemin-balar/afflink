@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.472" x2="0.5" y2="1.172" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#22e4ac"/>
+      <stop offset="1" stop-color="#08b3e5"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_10962" data-name="Group 10962" transform="translate(-1550 -1329)">
+    <rect id="Rectangle_405" data-name="Rectangle 405" width="80" height="80" rx="15" transform="translate(1550 1329)" fill="url(#linear-gradient)"/>
+    <g id="Group_10934" data-name="Group 10934" transform="translate(1569.726 1349.822)">
+      <path id="Rectangle_22" data-name="Rectangle 22" d="M7,2A5.006,5.006,0,0,0,2,7V32a5.006,5.006,0,0,0,5,5H33a5.006,5.006,0,0,0,5-5V7a5.006,5.006,0,0,0-5-5H7M7,0H33a7,7,0,0,1,7,7V32a7,7,0,0,1-7,7H7a7,7,0,0,1-7-7V7A7,7,0,0,1,7,0Z" transform="translate(0.274 0.178)" fill="#fff"/>
+      <path id="Rectangle_397" data-name="Rectangle 397" d="M2,1.5a.5.5,0,0,0-.5.5V5a.5.5,0,0,0,.5.5H9A.5.5,0,0,0,9.5,5V2A.5.5,0,0,0,9,1.5H2M2,0H9a2,2,0,0,1,2,2V5A2,2,0,0,1,9,7H2A2,2,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(5.274 6.178)" fill="#fff"/>
+      <path id="Rectangle_400" data-name="Rectangle 400" d="M2,1.5a.5.5,0,0,0-.5.5V5a.5.5,0,0,0,.5.5H9A.5.5,0,0,0,9.5,5V2A.5.5,0,0,0,9,1.5H2M2,0H9a2,2,0,0,1,2,2V5A2,2,0,0,1,9,7H2A2,2,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(5.274 15.178)" fill="#fff"/>
+      <path id="Rectangle_398" data-name="Rectangle 398" d="M7.5,1.5a6,6,0,1,0,6,6,6.007,6.007,0,0,0-6-6M7.5,0A7.5,7.5,0,1,1,0,7.5,7.5,7.5,0,0,1,7.5,0Z" transform="translate(19.274 6.178)" fill="#fff"/>
+      <path id="Rectangle_399" data-name="Rectangle 399" d="M2,1.5a.5.5,0,0,0-.5.5V6a.5.5,0,0,0,.5.5H28a.5.5,0,0,0,.5-.5V2a.5.5,0,0,0-.5-.5H2M2,0H28a2,2,0,0,1,2,2V6a2,2,0,0,1-2,2H2A2,2,0,0,1,0,6V2A2,2,0,0,1,2,0Z" transform="translate(5.274 25.178)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

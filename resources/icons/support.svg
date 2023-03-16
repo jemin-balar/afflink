@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.472" x2="0.5" y2="1.172" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#22e4ac"/>
+      <stop offset="1" stop-color="#08b3e5"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_10963" data-name="Group 10963" transform="translate(-1038 -1675)">
+    <rect id="Rectangle_404" data-name="Rectangle 404" width="80" height="80" rx="15" transform="translate(1038 1675)" fill="url(#linear-gradient)"/>
+    <g id="_8666763_headphones_music_icon" data-name="8666763_headphones_music_icon" transform="translate(1061.014 1696.918)">
+      <path id="Path_12112" data-name="Path 12112" d="M36.973,32.409a1,1,0,0,1-1-1V20.046A16.034,16.034,0,0,0,19.986,4,16.016,16.016,0,0,0,4,20.046V31.409a1,1,0,0,1-2,0V20.046a17.986,17.986,0,1,1,35.973,0V31.409A1,1,0,0,1,36.973,32.409Z" transform="translate(-3 -3)" fill="#fff"/>
+      <path id="Path_12113" data-name="Path 12113" d="M33.2,27.981H31.31a4.748,4.748,0,0,1-4.775-4.709V17.709A4.748,4.748,0,0,1,31.31,13h6.662V23.272A4.748,4.748,0,0,1,33.2,27.981ZM31.31,15a2.745,2.745,0,0,0-2.775,2.709v5.563a2.746,2.746,0,0,0,2.775,2.709H33.2a2.746,2.746,0,0,0,2.775-2.709V15ZM8.662,27.981H6.775A4.748,4.748,0,0,1,2,23.272V13H8.662a4.748,4.748,0,0,1,4.775,4.709v5.563A4.748,4.748,0,0,1,8.662,27.981ZM4,15v8.272a2.745,2.745,0,0,0,2.775,2.709H8.662a2.745,2.745,0,0,0,2.775-2.709V17.709A2.745,2.745,0,0,0,8.662,15Z" transform="translate(-3 6.992)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.472" x2="0.5" y2="1.172" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#22e4ac"/>
+      <stop offset="1" stop-color="#08b3e5"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_10966" data-name="Group 10966" transform="translate(-1547 -1675)">
+    <rect id="Rectangle_403" data-name="Rectangle 403" width="80" height="80" rx="15" transform="translate(1547 1675)" fill="url(#linear-gradient)"/>
+    <g id="Group_10969" data-name="Group 10969" transform="translate(-2.304 1)">
+      <path id="Rectangle_409" data-name="Rectangle 409" d="M2,1.5a.5.5,0,0,0-.5.5V5a.5.5,0,0,0,.5.5H9A.5.5,0,0,0,9.5,5V2A.5.5,0,0,0,9,1.5H2M2,0H9a2,2,0,0,1,2,2V5A2,2,0,0,1,9,7H2A2,2,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(1599.308 1727)" fill="#fff"/>
+      <path id="Rectangle_411" data-name="Rectangle 411" d="M2,1.5a.5.5,0,0,0-.5.5V4.686a.5.5,0,0,0,.5.5H9.143a.5.5,0,0,0,.5-.5V2a.5.5,0,0,0-.5-.5H2M2,0H9.143a2,2,0,0,1,2,2V4.686a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(1568.304 1727.314)" fill="#fff"/>
+      <g id="Group_10970" data-name="Group 10970" transform="translate(1580.222 1695)">
+        <path id="Ellipse_21" data-name="Ellipse 21" d="M6,1.5A4.5,4.5,0,1,0,10.5,6,4.505,4.505,0,0,0,6,1.5M6,0A6,6,0,1,1,0,6,6,6,0,0,1,6,0Z" transform="translate(3.085 -1)" fill="#fff"/>
+        <path id="Rectangle_408" data-name="Rectangle 408" d="M2,1.5a.5.5,0,0,0-.5.5V5a.5.5,0,0,0,.5.5H16a.5.5,0,0,0,.5-.5V2a.5.5,0,0,0-.5-.5H2M2,0H16a2,2,0,0,1,2,2V5a2,2,0,0,1-2,2H2A2,2,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(0.085 18)" fill="#fff"/>
+        <path id="Line_1" data-name="Line 1" d="M.75,9H-.75V0H.75Z" transform="translate(9.085 10)" fill="#fff"/>
+      </g>
+      <path id="Path_12116" data-name="Path 12116" d="M1601.307,1726.2a.75.75,0,0,1-.75-.75v-10.718H1594.3a.75.75,0,0,1,0-1.5h7a.75.75,0,0,1,.75.75v11.468A.75.75,0,0,1,1601.307,1726.2Z" transform="translate(3.425 2.169)" fill="#fff"/>
+      <path id="Path_12117" data-name="Path 12117" d="M1594.3,1726.362a.75.75,0,0,1-.75-.75v-11.633a.75.75,0,0,1,.75-.75h6.994a.75.75,0,0,1,0,1.5h-6.244v10.883A.75.75,0,0,1,1594.3,1726.362Z" transform="translate(-20.423 2.169)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.472" x2="0.5" y2="1.172" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#22e4ac"/>
+      <stop offset="1" stop-color="#08b3e5"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_10965" data-name="Group 10965" transform="translate(-1547 -1675)">
+    <rect id="Rectangle_403" data-name="Rectangle 403" width="80" height="80" rx="15" transform="translate(1547 1675)" fill="url(#linear-gradient)"/>
+    <g id="_4831043_analytics_chart_graph_pie_sales_icon" data-name="4831043_analytics_chart_graph_pie_sales_icon" transform="translate(1562 1690)">
+      <path id="Path_12114" data-name="Path 12114" d="M22.84,44.68a15.84,15.84,0,1,1,0-31.68.72.72,0,0,1,.72.72v14.4h14.4a.72.72,0,0,1,.72.72A15.84,15.84,0,0,1,22.84,44.68Zm-.925-29.8A13.534,13.534,0,0,0,8.834,29.069,14.081,14.081,0,0,0,22.84,43,13.48,13.48,0,0,0,36.856,29.8H22.84a1.153,1.153,0,0,1-.925-.956Z" transform="translate(0 -1.68)" fill="#fff"/>
+      <path id="Path_12115" data-name="Path 12115" d="M49.84,23.56H34.72a.72.72,0,0,1-.72-.72V7.72A.72.72,0,0,1,34.72,7,15.84,15.84,0,0,1,50.56,22.84a.72.72,0,0,1-.72.72ZM35.717,21.838h13a13.257,13.257,0,0,0-13-13.082Z" transform="translate(-7.56)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
